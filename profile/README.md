@@ -1,4 +1,4 @@
-<h2 align="center">
+<h1 align="center">
   Welcome to <b>ImeSense</b>!
 </h2>
 
